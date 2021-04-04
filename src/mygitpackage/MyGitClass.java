@@ -12,11 +12,8 @@ public class MyGitClass {
 		System.out.println("2.changing made in remote repo");
 		System.out.println("3.changing made in 15.line remote repo");
 		System.out.println("23.changing made on 14.line in remote repo");
-<<<<<<< HEAD
 		System.out.println("Chng made after conflict");
-=======
 
->>>>>>> f72da980b1fa4fcfaddcd7fff0013f281817cf46
 	}
 
 }
