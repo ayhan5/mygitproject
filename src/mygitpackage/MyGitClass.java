@@ -11,7 +11,7 @@ public class MyGitClass {
 		System.out.println("2.changing made in remote repo");
 		System.out.println("2.changing made in remote repo");
 		
-		
+		System.out.println("23.changing made on 14.line in remote repo");
 
 	}
 
