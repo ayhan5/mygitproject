@@ -6,6 +6,8 @@ public class MyGitClass {
 		System.out.println("Version1");
 		System.out.println("Version2");
 		System.out.println("Version3");
+		System.out.println("changing made in remote repo");
+		
 	}
 
 }
