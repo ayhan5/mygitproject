@@ -10,14 +10,9 @@ public class MyGitClass {
 		System.out.println("2.changing made in ayhan's repo");// ayni anda github ta da deg yapildi , yuzden once github taki alinir sonra local deki deg yapilir..ben hata gorunsun diye git ve githubta 10.sati silmedim
 		System.out.println("2.changing made in remote repo");
 		System.out.println("2.changing made in remote repo");
-		
-<<<<<<< HEAD
-		
 		System.out.println("3.changing made in 15.line remote repo");
-=======
 		System.out.println("23.changing made on 14.line in remote repo");
 
->>>>>>> 869b12c241ebddd18fd8a0f2dba2f017d291ecc1
 	}
 
 }
